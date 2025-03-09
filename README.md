@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Using Python (Pandas)
+# Sales Analysis Using Python (Pandas)
 
 ##  Project Overview  
 This project analyzes sales data to uncover key insights related to revenue, profitability, and efficiency. Using **Python and Pandas**, I cleaned, processed, and visualized data to help businesses understand their sales trends and make informed decisions.
